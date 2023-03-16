@@ -6,12 +6,12 @@ specifiers:
   "@funish/lint": edge
   nuxt: 3.3.1
   prettier: 2.8.4
-  rome: ^11.0.0
+  rome: 11.0.0
 
 devDependencies:
   "@funish/githooks": 0.0.4-edge.4
   "@funish/githooks-config": 0.0.1-edge.0
-  "@funish/lint": 0.0.1-edge.6
+  "@funish/lint": 0.0.1-edge.7
   nuxt: 3.3.1
   prettier: 2.8.4
   rome: 11.0.0
@@ -1393,10 +1393,10 @@ packages:
       - supports-color
     dev: true
 
-  /@funish/lint/0.0.1-edge.6:
+  /@funish/lint/0.0.1-edge.7:
     resolution:
       {
-        integrity: sha512-WW7powsuXrxuU7F/+68j7mEPGW0jrv2rfBgmm3/AiP8vZe9LKYQ4eW+1rKILrVsijiurbdRp/MsOctOcYvIBIg==,
+        integrity: sha512-Q97hSljA4pclAbXXNq4NfYESs9+24JTEq1Xxz4dmEbudVhPKu/VUrPSlfUI8WwohuvCd6i/o5/FThGCxebx96w==,
       }
     hasBin: true
     dependencies:
