@@ -27,5 +27,4 @@ $ pnpm preview
 
 ## License
 
-- Code - [MIT](LICENSE) &copy; [Demo Macro](https://imst.xyz/)
-- Documentation - [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) &copy; [Demo Macro](https://imst.xyz/)
+- [MIT](LICENSE) &copy; [Demo Macro](https://imst.xyz/)
