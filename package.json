@@ -31,7 +31,7 @@
     "@funish/githooks-config": "edge",
     "@funish/lint": "edge",
     "nuxt": "3.6.5",
-    "prettier": "3.0.3",
+    "prettier": "3.2.5",
     "rome": "12.1.3"
   }
 }
