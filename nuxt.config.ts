@@ -1,12 +1,4 @@
 import { defineNuxtConfig } from "nuxt/config";
 
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
-export default defineNuxtConfig({
-  typescript: {
-    tsConfig: {
-      compilerOptions: {
-        forceConsistentCasingInFileNames: true,
-      },
-    },
-  },
-});
+export default defineNuxtConfig({});

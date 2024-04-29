@@ -8,7 +8,7 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "check": "rome check . --apply-unsafe && pnpm rome format . --write",
+    "check": "biome check . --apply-unsafe && biome format . --write",
     "format": "prettier --write --list-different . --ignore-path .gitignore",
     "postinstall": "nuxt prepare && githooks install"
   },
@@ -27,11 +27,11 @@
   },
   "homepage": "https://github.com/DemoMacro/nuxt-starter#readme",
   "devDependencies": {
-    "@funish/githooks": "edge",
-    "@funish/githooks-config": "edge",
-    "@funish/lint": "edge",
-    "nuxt": "3.6.5",
-    "prettier": "3.0.3",
-    "rome": "12.1.3"
+    "@biomejs/biome": "1.7.1",
+    "@funish/githooks": "0.0.5",
+    "@funish/githooks-config": "0.0.2",
+    "@funish/lint": "0.0.2",
+    "nuxt": "3.11.2",
+    "prettier": "3.2.5"
   }
 }

@@ -21,10 +21,6 @@ $ pnpm build
 $ pnpm preview
 ```
 
-## Credits
-
-- [Demo Macro](https://github.com/DemoMacro) - Always believe that good things are about to happen.
-
 ## License
 
 - [MIT](LICENSE) &copy; [Demo Macro](https://imst.xyz/)
